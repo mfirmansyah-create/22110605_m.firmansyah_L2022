@@ -1,4 +1,4 @@
-# 🎬 UTS_JSP_2215012345_MFIRMANSYAH
+# 🎬 UTS_JSP_22110605_MFIRMANSYAH
 
 ## 📌 Deskripsi Project
 
@@ -29,4 +29,7 @@ Data film dan jadwal disimpan menggunakan struktur `ArrayList`, dan seluruh pros
 
 ## 🚀 Cara Menjalankan Aplikasi
 
-git clone https://github.com/mfirmansyah-create/22110605_m.firmansyah_L2022.git
+1. Clone repository ke lokal:
+   ```bash
+   git clone https://github.com/mfirmansyah-create/22110605_m.firmansyah_L2022.git
+
