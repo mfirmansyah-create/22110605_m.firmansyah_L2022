@@ -19,10 +19,13 @@ Data film dan jadwal disimpan menggunakan struktur `ArrayList`, dan seluruh pros
 
 ## 🖼️ Screenshot Hasil Output
 
-> ![Output Formulir](screenshots/form_pemesanan.png)  
+> ![Output Transaksi](index.png)  
+> *tampilan menu utama*
+
+> > ![Output Formulir](formpesan.png)  
 > *Tampilan form pemesanan*
 
-> ![Output Transaksi](screenshots/hasil_transaksi.png)  
+> ![Output Transaksi](struk.png)  
 > *Tampilan hasil transaksi akhir*
 
 ---
