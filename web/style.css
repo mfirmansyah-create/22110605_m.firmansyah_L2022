@@ -1,0 +1,85 @@
+/* Umum */
+body {
+    background-color: #f2f6fc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Marquee */
+.marquee-title {
+    background-color: #e0f0ff;
+    color: #007bff;
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 2px solid #007bff;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #ffffff !important;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+/* Tombol Search */
+.btn-outline-primary {
+    color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: white;
+}
+
+/* Container Utama */
+.container h3 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #0d6efd;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Kartu Film */
+.card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.card-title {
+    color: #343a40;
+    font-weight: 600;
+}
+
+.card-text {
+    color: #555;
+    font-size: 0.95rem;
+}
+
+/* Tombol Pesan */
+.btn-primary {
+    background-color: #0d6efd;
+    border: none;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7;
+}
